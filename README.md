@@ -1,4 +1,4 @@
-#Multi line text field for Laravel Nova 4
+# Multi line text field for Laravel Nova 4
 
 This package provides an index and detail field for printing multiple lines.
 
