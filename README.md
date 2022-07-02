@@ -3,6 +3,8 @@
 This package provides an index and detail field for printing multiple lines.
 
 Example 1:
+
+```
 MultiLineText::make('Kenmerken', function () {
     $lines[] = [
         'text' => 'Title here',
