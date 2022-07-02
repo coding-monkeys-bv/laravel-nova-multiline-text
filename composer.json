@@ -1,0 +1,36 @@
+{
+    "name": "coding-monkeys-bv/laravel-nova-multi-line-text",
+    "description": "Print multiple lines of text on index or detail view.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/nova": "^4.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodingMonkeysBv\\MultiLineText\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CodingMonkeysBv\\MultiLineText\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://nova.laravel.com"
+        }
+    ]
+}
