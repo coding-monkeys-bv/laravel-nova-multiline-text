@@ -1,6 +1,6 @@
 <?php
 
-namespace CodingMonkeysBv\MultiLineText;
+namespace CodingMonkeys\MultiLineText;
 
 use Laravel\Nova\Fields\Field;
 

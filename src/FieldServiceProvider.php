@@ -1,6 +1,6 @@
 <?php
 
-namespace CodingMonkeysBv\MultiLineText;
+namespace CodingMonkeys\MultiLineText;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
