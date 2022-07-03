@@ -11,5 +11,5 @@ class MultiLineText extends Field
      *
      * @var string
      */
-    public $component = 'multi-line-text';
+    public $component = 'multiline-text';
 }
